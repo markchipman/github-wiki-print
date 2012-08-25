@@ -272,6 +272,12 @@
 	   display:block;
 	}
 	
+	ul.wiki-actions,
+	div#gollum-footer,
+	div#markdown-help,
+	div#ajax-error-message,
+	div#logo-popup
+	{ display: none; }
 
 }
 
