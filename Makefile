@@ -7,7 +7,7 @@ chrome:
 	cp source/common/* source/chrome/
 
 clean:
-	rm source/safari.safariextension/print.css; 
-	rm source/safari.safariextension/Icon*;
-	rm source/chrome/print.css; 
-	rm source/chrome/Icon*;
+	rm -f source/safari.safariextension/print.css;
+	rm -f source/safari.safariextension/Icon*;
+	rm -f source/chrome/print.css;
+	rm -f source/chrome/Icon*;
