@@ -183,12 +183,15 @@
 		margin-bottom:72px;
 	}
 	
+	.header,
 	#header,
 	.pagehead,
 	.site .repos ,
 	.site .actions,
 	.content h1:first-of-type,
+	#footer-push,
 	#footer,
+	#fullscreen_overlay,
 	.locales
 	{ display:none; }
 
